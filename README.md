@@ -28,3 +28,5 @@ This project is licensed under the terms of the `MIT` license. See [LICENSE](LIC
 ## Terms
 
 By using this package you agree to the Terms of Use. See [TERMS](TERMS.md) for more details.
+
+--
